@@ -17,11 +17,14 @@
 
 ![wallpaper_1](https://github.com/chenjiandongx/wallpaper/blob/master/images/wallpaper_1.png)  
 
-然而，事情到这里还没有结束。这两天看了 redis 的文档，就想利用 redis 来搞个简单的分布式爬虫。前期工作的下载和配置 redis 我就不说了。核心逻辑是，先将所有连接存入到本机的 redis 数据库里，本机作为 master。然后其他 slave 连接到 master 分配任务干活。但是，你以为我既没有另外一台电脑也没有钱购买虚拟主机这件事我会告诉你？最后就只用了本机爬...  ，anyway，最后也同样把所有的套图都爬下来了。这部分代码在 wallpaper_redis.py 里。
+然而，事情到这里还没有结束。这两天看了 redis 的文档，就想利用 redis 来搞个简单的分布式爬虫。前期工作的下载和配置 redis 我就不说了。核心逻辑是，先将所有连接存入到本机的 redis 数据库里，本机作为 master。然后其他 slave 连接到 master 分配任务干活。但是，你以为我既没有另外一台电脑也没有钱购买虚拟主机这件事我会告诉你？最后就只用了本机爬...  ，anyway，最后也同样把所有的套图都爬下来了。这部分代码在 wallpaper_redis.py 里。  
+
+壁纸已打包上传到百度云里：链接: [https://pan.baidu.com/s/1boZ6XTP](https://pan.baidu.com/s/1boZ6XTP) 密码: q8k6  
 
 为了深入贯彻党提倡的二十四字社会主义核心价值观，请允许我先大家安利下面这张壁纸  
 
 ![wallpaper_2](https://github.com/chenjiandongx/wallpaper/blob/master/images/wallpaper_2.jpg)  
+
 
 **永远热血，永远热泪盈眶！**
 
