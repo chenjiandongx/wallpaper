@@ -6,7 +6,8 @@
 
 至于为什么选这个 zol 的手机壁纸网站，没办法，某度搜索出来第一个，树大招风！  
 
-代码用 Python 写的，第三方类库只用了 requests，老少皆宜。匹配只用了正则表达式。利用多进程提高爬取速度。  
+代码用 Python 写的，第三方类库只用了 requests，老少皆宜。匹配只用了正则表达式。利用多进程提高爬取速度。
+
 壁纸大小为 750 * 1334（iphone6 的分辨率），大小可在代码里自行更改，最高的分辨率为 1080 * 1920（iphone6s plus 的分辨率）。  
 
 总共爬取了 **420** 套，共 **3941** 张壁纸。  
@@ -25,8 +26,11 @@
 
 为了深入贯彻党提倡的二十四字社会主义核心价值观，请允许我先大家安利下面这张壁纸  
 
-![wallpaper_2](https://github.com/chenjiandongx/wallpaper/blob/master/images/wallpaper_2.jpg)  
-
+![wallpaper_2](https://github.com/chenjiandongx/wallpaper/blob/master/images/wallpaper_2.jpg)
 
 **永远热血，永远热泪盈眶！**
 
+
+### License
+
+MIT [© chenjiandongx](https://github.com/chenjiandongx)
